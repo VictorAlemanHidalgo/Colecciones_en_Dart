@@ -1,6 +1,7 @@
 void main() {  
-   // lista tipo entero
-   List<int> numeros = [10, 20, 30, 40, 50];
+   // lista tipo entero de 3 elementos
+   print("Victor Aleman Hidalgo, Matricula: 22308051281123, gpo 6 J");
+   List<int> numeros = [10, 20, 30];
    print("Lista de numeros enteros: ");
    print(numeros);
    print("Primer elemento: ${numeros[0]}");
